@@ -72,7 +72,7 @@ const UserLoginForm = () => {
               </FormGroup>
 
               <FormGroup>
-                <Label htmlFOr="password">Password</Label>
+                <Label htmlFor="password">Password</Label>
                 <Field
                   id="password"
                   name="password"
